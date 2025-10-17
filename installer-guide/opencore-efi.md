@@ -68,6 +68,12 @@ Now something you'll notice is that it comes with a bunch of files in `Drivers` 
 
 :::
 
+::: tip Info for macOS 26 Tahoe
+
+If you will be installing macOS 26, add `apfs_aligned.efi` to your configuration's `Drivers` folder from [here](https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/apfs_aligned.efi).
+
+:::
+
 * **Keep the following from Tools:**
 
 | Tool | Status | Description |

@@ -640,6 +640,12 @@ Both MinVersion and MinDate need to be set if changing the minimum version.
 
 :::
 
+::: warning Info for macOS 26 Tahoe
+
+If you will be installing macOS 26, disable `EnableJumpstart`.
+
+:::
+
 ### Audio
 
 Related to AudioDxe settings, for us we'll be ignoring(leave as default). This is unrelated to audio support in macOS.
